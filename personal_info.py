@@ -1,6 +1,5 @@
-# personal_info.py
-# Author: Aditya Kumar
 # Project: Personal Information Manager - Week 1 (The Developers Arena)
+# My First Python Project
 
 # Welcome message
 print("=" * 40)
